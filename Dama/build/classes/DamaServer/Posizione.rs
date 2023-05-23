@@ -1,0 +1,1 @@
+DamaClient.Posizione
